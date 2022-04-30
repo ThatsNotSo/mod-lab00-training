@@ -6,3 +6,5 @@ int main() {
     a = 2;
     b = 10;
     c = power(a, b);
+
+  
