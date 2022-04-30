@@ -7,3 +7,4 @@ int main() {
     b = 10;
     c = power(a, b);
 }
+
